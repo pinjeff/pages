@@ -28,6 +28,7 @@ show_copy_button = true
 show_feed = false
 links = [
   { url = "@/about/index.md", name = "About" },
+  { url = "@/blog/_index.md", name = "Blog" },
 ]
 
 [extra.footer]
