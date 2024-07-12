@@ -187,7 +187,18 @@ l:
     jmp l
 ```
 
-And now for the moment of truth, let's try to make an executable out of it
+And it freaking works!!
+```sh
+$ aws lambda invoke --function-name assembly-runtime output.txt
+{
+    "StatusCode": 200,
+    "ExecutedVersion": "$LATEST"
+}
+$ cat output.txt
+Hello, World!
+```
+
+And now for the moment of truth, let's see how small is it
 ```sh
 $ fasm bootstrap.asm
 $ ls -lh bootstrap | awk '{print $5, $9}'
