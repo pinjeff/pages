@@ -18,10 +18,10 @@ highlight_code = true
 smart_punctuation = true
 
 [extra]
-primary_color = "#00d992"
 animated_favicon = true
-stylesheets = ["custom.css"]
+accent_color = "#00d992"
 show_copy_button = true
+styles = ["custom.css"]
 
 [extra.nav]
 show_feed = false
