@@ -18,7 +18,9 @@ smart_punctuation = true
 
 [extra]
 accent_color = "#00d992"
+show_backlinks = true
 show_copy_button = true
+show_reading_time = true
 styles = ["custom.css"]
 
 [extra.nav]
