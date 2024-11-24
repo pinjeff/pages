@@ -34,6 +34,8 @@ Feel free to send me a message on any of these. Whether you're bored or need som
 
 
 ## Certifications
+* AWS Certified DevOps Engineer – Professional [(Sept 2024)](https://www.credly.com/badges/753d25af-6e94-4f8c-860b-743dc44f0162/public_url)
+* AWS Certified Solutions Architect – Professional [(Aug 2024)](https://www.credly.com/badges/18549ae3-3498-45bc-89b3-fdd658549116/public_url)
 * AWS Certified SysOps Administrator – Associate [(Aug 2023)](https://www.credly.com/badges/69719c43-cfcf-477a-8020-2f88f58d0bee/public_url)
 * AWS Certified Developer – Associate [(Jul 2023)](https://www.credly.com/badges/b97b08f8-a079-43ee-a990-435eead62394/public_url)
 * AWS Certified Solutions Architect – Associate [(Jun 2023)](https://www.credly.com/badges/43e941d7-ba9d-42bc-aab5-fc8a2921a032/public_url)
