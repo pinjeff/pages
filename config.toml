@@ -22,6 +22,7 @@ show_copy_button = true
 styles = ["custom.css"]
 
 [extra.nav]
+auto_hide = true
 links = [
   { url = "@/about/index.md", name = "About" },
   { url = "@/blog/_index.md", name = "Blog" },
