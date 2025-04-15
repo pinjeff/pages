@@ -40,8 +40,10 @@ Feel free to send me a message on any of these. Whether you're bored or need som
 * AWS Certified Developer – Associate [(Jul 2023)](https://www.credly.com/badges/b97b08f8-a079-43ee-a990-435eead62394/public_url)
 * AWS Certified Solutions Architect – Associate [(Jun 2023)](https://www.credly.com/badges/43e941d7-ba9d-42bc-aab5-fc8a2921a032/public_url)
 * AWS Certified Cloud Practitioner [(Feb 2023)](https://www.credly.com/badges/a879164e-ef19-42d8-bbba-1f5f58e2e6e0/public_url)
+* Microsoft Certified: Power BI Data Analyst Associate [(Dec 2022)](https://www.credly.com/badges/beb4b44e-f2ea-4fd4-9a78-7c84a55ee934/public_url)
 * Google IT Support Certificate [(Oct 2022)](https://www.credly.com/badges/101af77f-4b9b-46e8-9c38-f78f62bc64ba/public_url)
 * Google Data Analytics Professional Certificate [(Oct 2022)](https://www.credly.com/badges/f7866edf-0cd2-412a-a8b6-626f0bf19ad4/public_url)
+* Microsoft Certified: Azure Administrator Associate [(Sept 2022)](https://www.credly.com/badges/3560ac3b-ac96-48cd-99a0-981df6e2ab20/public_url)
 
 <script type="text/javascript">
 	function updateClock() {
